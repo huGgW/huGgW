@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=150&fontAlignY=33&fontAlign=20&text=(੭｡╹▿╹｡)੭)
 
+![huGgW's profile](http://github-profile-summary-cards-zeta.vercel.app/api/cards/profile-details?username=huGgW&theme=swift)
+
+![huGgW's most commit language](http://github-profile-summary-cards-zeta.vercel.app/api/cards/most-commit-language?username=huGgW&theme=swift&exclude=CSS)
+![huGgW's repos per language](http://github-profile-summary-cards-zeta.vercel.app/api/cards/repos-per-language?username=huGgW&theme=swift&exclude=HTML,CSS)
+
+![huGgW's stat](http://github-profile-summary-cards-zeta.vercel.app/api/cards/stats?username=huGgW&theme=swift)
+![huGgW's active time](http://github-profile-summary-cards-zeta.vercel.app/api/cards/productive-time?username=huGgW&theme=swift&utcOffset=9)
+
 
 <!--
 **huGgW/huGgW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
