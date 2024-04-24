@@ -3,6 +3,9 @@
 ### 안녕하세요!
 호기심 많은 **백엔드 개발자** 우혁준 입니다!! 
 
+<!-- solved ac 티어 정보 -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whjoon0225)](https://solved.ac/{handle})
 
 <!--
 **huGgW/huGgW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
