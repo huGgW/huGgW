@@ -3,7 +3,12 @@
 ### 안녕하세요!
 호기심 많은 **백엔드 개발자** 우혁준 입니다!! 
 
+### 해보았어요!
+[![My Skills](https://skillicons.dev/icons?i=go,kotlin,java,spring,python,mysql,postgresql,mongodb,redis,docker,github,aws,gcp,neovim)](https://skillicons.dev)
+
 <!-- solved ac 티어 정보 -->
+
+### 백준이에오!
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whjoon0225)](https://solved.ac/{handle})
 
