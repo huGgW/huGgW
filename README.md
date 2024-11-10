@@ -1,4 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=150&fontAlignY=33&fontAlign=20&text=(੭｡╹▿╹｡)੭)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/huGgW"
+  width="600"
+  height="300"
+/>
+</a>
 
 ### 안녕하세요!
 호기심 많은 **백엔드 개발자** 우혁준 입니다!! 
